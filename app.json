@@ -1,8 +1,8 @@
 
 {
-  "name": "Miss Rose",
-  "logo": "https://telegra.ph/file/48522f7be29b993a19e60.jpg",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "Bugzkingz md",
+  "logo": "https://files.catbox.moe/1nszwd.jpg",
+  "description": "Telegram's assistant  group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
     "best",
@@ -10,22 +10,22 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/FayasKKD/Miss-Rose-Bot",
+  "repository": "hhttps://github.com/Bugzking210/Bugz-bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
       "value": "ANYTHING"
     },
     "TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "7790165200:AAFEaFCXOyiotBmGkcZWX0X1WfxFK-2dPMs",
       "value": ""
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
+      "description": "7451988083",
       "value": ""
     },
     "OWNER_USERNAME": {
-      "description": "Your username",
+      "description": "Dgxeon11",
       "value": ""
     },
     "WEBHOOK": {
