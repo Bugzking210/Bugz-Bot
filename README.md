@@ -1,17 +1,54 @@
-# [Miss Rose Bot](https://t.me/MissRose_bot)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=500&center=true&vCenter=true&repeat=false&width=900&lines=%F0%9F%91%BD+Cloning+Miss+Rose...;%F0%9F%92%BB+BUGZKINGZ-MD+Taking+Over+Telegram...;%F0%9F%94%BB+Modular+AI-Driven+Bot+Activated" alt="Typing SVG" />
+</h1>
 
-### Deploy
+<p align="center">
+  <img src="https://raw.githubusercontent.com/evildevill/BannerHub/main/Banners/hack2.gif" width="450"/>
+</p>
 
-[![Deploy](https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FFayasKKD%2FMiss-Rose-Bot)
+---
 
-### Credits
+## 🤖 BUGZKINGZ-MD — Miss Rose Clone on Steroids
 
-• [FayasKKD](https://github.com/FayasKKD/Bio) for this Repository 
+> A smart, modular, AI-ready Telegram bot inspired by **Miss Rose**, rebuilt with 💣 power, clean code, and full control by **@Dgxeon11**.
 
-• [Paul Larsen](https://github.com/PaulSonOfLars) for his [tgbot](https://github.com/PaulSonOfLars/tgbot) Repository and [Miss Rose Bot](https://t.me/MissRose_bot)
+---
 
-• [Dan Tes](https://github.com/delivrance) For his [Pyrogram](https://docs.pyrogram.org/) Library
+### 🚀 Features
 
-## Profile
+✅ Modular handler system  
+✅ Admin + group tools  
+✅ Anti-spam & filters  
+✅ Welcome messages  
+✅ Ban/kick/mute/promote  
+✅ AFK system  
+✅ Global ban  
+✅ Info, profile & tools  
+✅ User-level restriction  
+✅ Works in both groups & PMs  
+✅ More being added weekly
 
-![Rose Profile](https://telegra.ph/file/718d48493d1fb11197d8b.jpg)
+---
+
+### 🧠 Powered By:
+
+- Python 3.11+
+- Pyrogram / Telethon
+- MongoDB or PostgreSQL (optional)
+- Render / Railway / VPS ready
+
+---
+
+### 👨‍💻 How to Deploy
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/BUGZKINGZ-MD
+cd BUGZKINGZ-MD
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Add your bot token and user ID
+# Then start it
+python main.py
